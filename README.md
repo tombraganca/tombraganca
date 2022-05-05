@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Typescript and C#
 
 <div align="center">
   <a href="https://github.com/tombraganca">
